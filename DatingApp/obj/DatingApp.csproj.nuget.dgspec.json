@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\datingApp\\DatingApp\\DatingApp.csproj": {}
+    "d:\\Projects\\datingApp\\DatingApp\\DatingApp.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\datingApp\\DatingApp\\DatingApp.csproj": {
+    "d:\\Projects\\datingApp\\DatingApp\\DatingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\datingApp\\DatingApp\\DatingApp.csproj",
+        "projectUniqueName": "d:\\Projects\\datingApp\\DatingApp\\DatingApp.csproj",
         "projectName": "DatingApp",
-        "projectPath": "D:\\Projects\\datingApp\\DatingApp\\DatingApp.csproj",
+        "projectPath": "d:\\Projects\\datingApp\\DatingApp\\DatingApp.csproj",
         "packagesPath": "C:\\Users\\shorf\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\datingApp\\DatingApp\\obj\\",
+        "outputPath": "d:\\Projects\\datingApp\\DatingApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,6 +41,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.0.2, )"
@@ -52,6 +56,14 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[3.0.2, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [

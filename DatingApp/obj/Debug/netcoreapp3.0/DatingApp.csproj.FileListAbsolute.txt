@@ -52,3 +52,7 @@ D:\Projects\datingApp\DatingApp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\nativ
 D:\Projects\datingApp\DatingApp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\Projects\datingApp\DatingApp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
 D:\Projects\datingApp\DatingApp\obj\Debug\netcoreapp3.0\DatingApp.csproj.CopyComplete
+D:\Projects\datingApp\DatingApp\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\datingApp\DatingApp\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\datingApp\DatingApp\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\datingApp\DatingApp\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
